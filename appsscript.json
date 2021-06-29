@@ -43,6 +43,7 @@
     "https://www.googleapis.com/auth/script.external_request"
   ],
   "urlFetchWhitelist": [
-    "https://hack.af/"
+    "https://hack.af/",
+    "https://js-slash-z.hackclub.com/"
   ]
 }
